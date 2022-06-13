@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/elinlundberg/static/css/main.2a24df40.css",
+    "main.js": "/elinlundberg/static/js/main.ffe91156.js",
+    "static/media/mountain-range.jfif": "/elinlundberg/static/media/mountain-range.ae51dfb08a2fde1e7f4a.jfif",
+    "index.html": "/elinlundberg/index.html",
+    "main.2a24df40.css.map": "/elinlundberg/static/css/main.2a24df40.css.map",
+    "main.ffe91156.js.map": "/elinlundberg/static/js/main.ffe91156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a24df40.css",
+    "static/js/main.ffe91156.js"
+  ]
+}
