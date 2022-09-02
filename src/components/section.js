@@ -1,6 +1,6 @@
-const Section = ( {cfp, children} ) => {
+const Section = ( {cfp, children, ifp} ) => {
   return ( 
-    <section id="Section" className={`w-[100vw] sm:h-[100vh] ${cfp} flex flex-col`}>
+    <section id={ifp} className={`section w-full sm:h-[100vh] ${cfp} flex flex-col`}>
         {children}
     </section>
    );
